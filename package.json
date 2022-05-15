@@ -1,5 +1,5 @@
 {
-  "name": "testing-apps",
+  "name": "mp4-s1-u3",
   "version": "0.0.1",
   "scripts": {
     "start": "npm run dev",
@@ -43,5 +43,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bloominstituteoftechnology/web-module-project-testing-web-apps.git"
-  }
+  },
+  "keywords": [],
+  "description": "Integration Testing"
 }
